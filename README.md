@@ -13,9 +13,9 @@ den gør det du siger den skal hvis noget passer med de du spørger den om at tj
 * != sammenligner om de ikke passer sammen
 * !== sammenligner om de ikke passer sammen og er ikke den sammen datatype 
 * < større end 
-* > mindre end 
-* <= større end eller ligemed 
-* >= mindre end eller ligemed
+* \> mindre end 
+* \<= større end eller ligemed 
+* \>= mindre end eller ligemed
 * +lægger sammen
 * -trækker fra
 * *ganger
